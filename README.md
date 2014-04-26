@@ -13,7 +13,7 @@ HipChat is fantastic, however:
 Reviews from HipChat TOS Change Hacker News Thread:
 
 > We use Slack at my company (switched to it from Kato) and we're very happy with it.
-> 
+>
 > -- <cite>coolsunglasses on Hacker News</cite>
 
 <!-- -->
@@ -56,6 +56,20 @@ Features:
  * [Open-source service integration](https://github.com/gitterHQ/services) model.
  * Support for Hubot.
  * Much, much, more.
+
+### Grove
+
+[Grove Homepage](https://grove.io)
+
+> Hosted IRC and so much more.
+
+Features:
+
+* web UI for your less techie team members
+* SSL for all communications
+* Searchable chat archive
+* Integrations with GitHub, Heroku, Bitbucket, Pivotal Tracker, and more
+* Desktop and email notifications when you're not online
 
 ### Other Alternatives
 
