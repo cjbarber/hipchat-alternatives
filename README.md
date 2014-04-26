@@ -38,6 +38,25 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 > An Open Source Alternative to HipChat and so much more.
 
+### Gitter
+
+[Gitter Homepage](https://gitter.im)
+
+Gitter is chat, for Github. 
+
+Currently the service is in beta, but will soon be moving across to a paid model where all open-source/public rooms are always free.
+
+Gitter'sfeatures are evolving rapidly, but the service already supports:
+
+ * Gitter supports [IRC](https://irc.gitter.im), web and mobile web chat interfaces.
+ * Markdown in your chat.
+ * Gitter understands Github - it uses your Github organisations for security, understands commit hashes and issues and much more.
+ * Embedded content from external services.
+ * A [fully-featured API](https://developer.gitter.im)
+ * [Open-source service integration](https://github.com/gitterHQ/services) model.
+ * Support for Hubot.
+ * Much, much, more.
+
 ### Other Alternatives
 
 [Echoplexus](https://echoplex.us/)
