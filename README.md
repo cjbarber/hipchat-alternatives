@@ -8,6 +8,8 @@ HipChat is fantastic, however:
 
 #### Slack
 
+[Slack Homepage](https://slack.com/)
+
 Reviews:
 
 > We use Slack at my company (switched to it from Kato) and we're very happy with it.
@@ -29,3 +31,27 @@ Reviews:
 > Our team tried out Slack, but the Mac app isn't native, just a rather weak wrapper around the normal web page. And the web experience just isn't as good as HipChat.
 Also, no in-app voice/video integration that I could find. HipChat's one-on-one video is great, although waht I really wish for is conferencing built in. Google Hangouts is just too annoying to set up (first it pesters me about signing up for Google Plus, which I don't want, then it shows a blank screen with a "start a hangout" button, then it opens a GH video in a separate window, which is just stupid), and doesn't have a desktop app.
 > -- <cite>lobster_johnson on Hacker News</cite>
+
+### Kandan
+
+[Kandan Homepage](http://kandanapp.com/)
+
+An Open Source Alternative to HipChat and so much more.
+
+### Other Alternatives
+
+[Echoplexus](https://echoplex.us/)
+
+[Scrollback](http://scrollback.io/)
+
+[Unison](https://www.unison.com/)
+
+[Hall](https://hall.com/)
+
+[Candy](http://candy-chat.github.io/candy/)
+
+[Partychat](http://partychapp.appspot.com/)
+
+[Campfire](https://campfirenow.com/)
+
+[Glassboard](http://glassboard.com/)
