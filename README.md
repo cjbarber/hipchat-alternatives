@@ -42,11 +42,11 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 [Gitter Homepage](https://gitter.im)
 
-Gitter is chat, for Github. 
+> Gitter is chat, for Github.
 
-Currently the service is in beta, but will soon be moving across to a paid model where all open-source/public rooms are always free.
+> Currently the service is in beta, but will soon be moving across to a paid model where all open-source/public rooms are always free.
 
-Gitter'sfeatures are evolving rapidly, but the service already supports:
+Features:
 
  * Gitter supports [IRC](https://irc.gitter.im), web and mobile web chat interfaces.
  * Markdown in your chat.
