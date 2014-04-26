@@ -10,7 +10,7 @@ HipChat is fantastic, however:
 
 [Slack Homepage](https://slack.com/)
 
-Reviews:
+Reviews from HipChat TOS Change Hacker News Thread:
 
 > We use Slack at my company (switched to it from Kato) and we're very happy with it.
 > 
@@ -36,7 +36,7 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 [Kandan Homepage](http://kandanapp.com/)
 
-An Open Source Alternative to HipChat and so much more.
+> An Open Source Alternative to HipChat and so much more.
 
 ### Other Alternatives
 
