@@ -84,8 +84,7 @@ Features:
 * Sound notifications
 * Code snippets
 * /me status messages
-* Comes with an API
-  ([docs](https://github.com/HashNuke/mogo-chat/blob/master/docs/api.md))
+* Comes with an API ([docs](https://github.com/HashNuke/mogo-chat/blob/master/docs/api.md))
 
 
 ### Other Alternatives
