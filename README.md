@@ -71,6 +71,23 @@ Features:
 * Integrations with GitHub, Heroku, Bitbucket, Pivotal Tracker, and more
 * Desktop and email notifications when you're not online
 
+### MogoChat
+[Mogo Chat Github Page](https://github.com/HashNuke/mogo-chat)
+
+> Self-Hosted Team Chat App
+
+Features:
+
+* **Works on mobile devices ~!**
+* Easy to install
+* Multiple rooms
+* Sound notifications
+* Code snippets
+* /me status messages
+* Comes with an API
+  ([docs](https://github.com/HashNuke/mogo-chat/blob/master/docs/api.md))
+
+
 ### Other Alternatives
 
 [Echoplexus](https://echoplex.us/)
@@ -88,3 +105,4 @@ Features:
 [Campfire](https://campfirenow.com/)
 
 [Glassboard](http://glassboard.com/)
+
