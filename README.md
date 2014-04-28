@@ -88,3 +88,5 @@ Features:
 [Campfire](https://campfirenow.com/)
 
 [Glassboard](http://glassboard.com/)
+
+[Mogo Chat](https://github.com/HashNuke/mogo-chat)
