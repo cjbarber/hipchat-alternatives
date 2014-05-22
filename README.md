@@ -6,6 +6,9 @@ HipChat is fantastic, however:
 
 4/25/2014: HipChat Changed Their TOS To Allow Admins Access to 1-1 Chat History
 
+Edit:
+5/22/2014: Having used Slack for a while, I hope HipChat improves! It's still a better experience than Slack, IMO. However, they really need to fix the multiple accounts/rooms issues.
+
 #### Slack
 
 [Slack Homepage](https://slack.com/)
