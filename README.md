@@ -49,7 +49,7 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 [ChatGrape Homepage](https://chatgrape.com/)
 
-While still in early access the key USPs of ChatGrape are
+While still in early access the key features of ChatGrape are
 
 - an autocomplete that allows you to reference your company's issues, appointments and files right as you type.
 - (restr. beta) automatic message labelling
