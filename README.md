@@ -45,13 +45,13 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 ### ChatGrape
 
-[ChatGrape Homepage](https://chatgrape.com/)
+> Communicate efficiently.
 
-> A chat service for efficient communication.
+[ChatGrape Homepage](https://chatgrape.com/)
 
 While still in early access the key USPs of ChatGrape are
 
-- an autocomplete that allows you to reference your companies issues, appointments and files right as you type.
+- an autocomplete that allows you to reference your company's issues, appointments and files right as you type.
 - (restr. beta) automatic message labelling
 - (restr. beta) encrypted chat rooms with timed message removal
 - markdown and code inside the chat
