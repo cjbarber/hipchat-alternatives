@@ -9,7 +9,7 @@ HipChat is fantastic, however:
 4/27/2014: Response from HipChat regarding 1-1 chat access by admins - [Who can view chat history and files](http://help.hipchat.com/knowledgebase/articles/358098)
 
 Edit:
-5/22/2014: Having used Slack for a while, I hope HipChat improves! It's still a better experience than Slack, IMO. However, they really need to fix the multiple accounts/rooms issues.
+10/19/2014: Slack is awesome. 
 
 #### Slack
 
