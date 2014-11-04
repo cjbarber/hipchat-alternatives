@@ -9,13 +9,23 @@ HipChat is fantastic, however:
 4/27/2014: Response from HipChat regarding 1-1 chat access by admins - [Who can view chat history and files](http://help.hipchat.com/knowledgebase/articles/358098)
 
 Edit:
-10/19/2014: Slack is awesome. 
+10/19/2014: Slack is awesome (and is taking over the world).
 
 #### Slack
 
 [Slack Homepage](https://slack.com/)
 
-Reviews from HipChat TOS Change Hacker News Thread:
+[Working at Slack](http://www.breakoutlist.com/slack/)
+
+**Slack Extensions**
+
+Slackdone
+
+![Slackdone](http://www.slackdone.com/slack-done-1.png)
+
+If you use Slack, I have been playing around with a daily standup/daily progress tracking bot. [I put up a signup page here.](http://www.slackdone.com)
+
+**Reviews from HipChat TOS Change Hacker News Thread:**
 
 > We use Slack at my company (switched to it from Kato) and we're very happy with it.
 >
