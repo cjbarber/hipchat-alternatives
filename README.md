@@ -53,6 +53,22 @@ Also, no in-app voice/video integration that I could find. HipChat's one-on-one 
 
 > An Open Source Alternative to HipChat and so much more.
 
+### ChatGrape
+
+> Communicate efficiently.
+
+[ChatGrape Homepage](https://chatgrape.com/)
+
+While still in early access the key features of ChatGrape are
+
+- an autocomplete that allows you to reference your company's issues, appointments and files right as you type.
+- (restr. beta) automatic message labelling
+- (restr. beta) encrypted chat rooms with timed message removal
+- markdown and code inside the chat
+- [special pricing for startups](https://chatgrape.com/pricing/#startups)
+- (restr. beta) iOS and Android Apps
+- a lot more to come
+
 ### Gitter
 
 [Gitter Homepage](https://gitter.im)
