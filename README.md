@@ -125,6 +125,3 @@ Features:
 [Partychat](http://partychapp.appspot.com/)
 
 [Campfire](https://campfirenow.com/)
-
-[Glassboard](http://glassboard.com/)
-
