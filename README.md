@@ -39,6 +39,28 @@ Edit:
 Also, no in-app voice/video integration that I could find. HipChat's one-on-one video is great, although waht I really wish for is conferencing built in. Google Hangouts is just too annoying to set up (first it pesters me about signing up for Google Plus, which I don't want, then it shows a blank screen with a "start a hangout" button, then it opens a GH video in a separate window, which is just stupid), and doesn't have a desktop app.
 > -- <cite>lobster_johnson on Hacker News</cite>
 
+### Let's Chat
+
+[Let's Chat Homepage](https://sdelements.github.io/lets-chat/)
+
+> A BYOS (Bring Your Own Server) chat app for small teams.
+
+Features:
+
+* Persistent messages
+* Multiple rooms
+* New message alerts / notifications
+* Mentions (hey @you)
+* Image embeds
+* Code pasting
+* File uploads
+* Transcripts / chat history
+* XMPP Multi-user chat (MUC)
+* Local / [Kerberos](https://github.com/sdelements/lets-chat-kerberos) / [LDAP](https://github.com/sdelements/lets-chat-ldap) authentication
+* [Hubot Adapter](https://github.com/hhaidar/hubot-lets-chat)
+* REST-like API
+* MIT Licensed
+
 ### Kandan
 
 [Kandan Homepage](http://kandanapp.com/)
