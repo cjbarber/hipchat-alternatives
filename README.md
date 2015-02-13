@@ -11,7 +11,7 @@ HipChat is fantastic, however:
 Edit:
 10/19/2014: Slack is awesome (and is taking over the world).
 
-#### Slack
+### Slack
 
 [Slack Homepage](https://slack.com/)
 
