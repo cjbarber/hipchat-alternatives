@@ -11,6 +11,9 @@ HipChat is fantastic, however:
 Edit:
 10/19/2014: Slack is awesome (and is taking over the world).
 
+Edit:
+02/18/2015: Slack's paid plus plan allows 1-1 chat access by admins  http://www.computerworld.com/article/2851719/slack-now-lets-employers-tap-workers-private-chats.html
+
 ### Slack
 
 [Slack Homepage](https://slack.com/)
