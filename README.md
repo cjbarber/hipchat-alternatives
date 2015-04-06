@@ -147,3 +147,5 @@ Features:
 [Partychat](http://partychapp.appspot.com/)
 
 [Campfire](https://campfirenow.com/)
+
+[Flowdock](https://www.flowdock.com/)
