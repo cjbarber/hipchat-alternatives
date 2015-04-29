@@ -39,6 +39,26 @@ Edit:
 Also, no in-app voice/video integration that I could find. HipChat's one-on-one video is great, although waht I really wish for is conferencing built in. Google Hangouts is just too annoying to set up (first it pesters me about signing up for Google Plus, which I don't want, then it shows a blank screen with a "start a hangout" button, then it opens a GH video in a separate window, which is just stupid), and doesn't have a desktop app.
 > -- <cite>lobster_johnson on Hacker News</cite>
 
+### ChatGrape
+
+> "The world's fastest business chat."
+
+[ChatGrape Homepage](https://chatgrape.com/)
+
+ChatGrape allows you to manage your cloud services [right from the chat](https://tctechcrunch2011.files.wordpress.com/2015/04/well-done.gif), allowing your business to move twice as fast.
+
+**Core features are:**
+
+- The world's only Grape Browser that allows you to access your company's issues, appointments and files right as you type
+- External Services like Giphy and Youtube browsable without leaving the service
+- Markdown and code inside the chat
+- Customer oriented [Privacy Policy](https://chatgrape.com/privacy/) especially regarding governmental data access
+- The [indexAPI](http://indexapi.com/), allowing you to add your company data to the ChatGrape index
+- [Special pricing for startups](https://chatgrape.com/pricing/#kickoffspecial)
+- iOS, Mac OS X and Android Apps
+- [Open Source: Encrypted OTR P2P Messaging in the making](https://chatgrape.com/open-source/)
+- a lot more to come
+
 ### Let's Chat
 
 [Let's Chat Homepage](https://sdelements.github.io/lets-chat/)
@@ -66,22 +86,6 @@ Features:
 [Kandan Homepage](http://kandanapp.com/)
 
 > An Open Source Alternative to HipChat and so much more.
-
-### ChatGrape
-
-> Communicate efficiently.
-
-[ChatGrape Homepage](https://chatgrape.com/)
-
-While still in early access the key features of ChatGrape are
-
-- an autocomplete that allows you to reference your company's issues, appointments and files right as you type.
-- (restr. beta) automatic message labelling
-- (restr. beta) encrypted chat rooms with timed message removal
-- markdown and code inside the chat
-- [special pricing for startups](https://chatgrape.com/pricing/#startups)
-- (restr. beta) iOS and Android Apps
-- a lot more to come
 
 ### Gitter
 
