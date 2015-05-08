@@ -153,3 +153,5 @@ Features:
 [Campfire](https://campfirenow.com/)
 
 [Flowdock](https://www.flowdock.com/)
+
+[Bitrix24](https://www.bitrix24.com/alternatives/free-hipchat-alternative.php)
