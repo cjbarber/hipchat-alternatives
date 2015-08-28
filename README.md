@@ -153,3 +153,7 @@ Features:
 [Campfire](https://campfirenow.com/)
 
 [Flowdock](https://www.flowdock.com/)
+
+[Mattermost](http://www.mattermost.org/)
+
+[Rocket Chat](https://rocket.chat/)
