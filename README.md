@@ -39,6 +39,32 @@ Edit:
 Also, no in-app voice/video integration that I could find. HipChat's one-on-one video is great, although waht I really wish for is conferencing built in. Google Hangouts is just too annoying to set up (first it pesters me about signing up for Google Plus, which I don't want, then it shows a blank screen with a "start a hangout" button, then it opens a GH video in a separate window, which is just stupid), and doesn't have a desktop app.
 > -- <cite>lobster_johnson on Hacker News</cite>
 
+### Let's Chat
+
+[Let's Chat Homepage](https://sdelements.github.io/lets-chat/)
+
+> A BYOS (Bring Your Own Server) chat app for small teams.
+
+Features:
+
+* BYOS (bring your own server)
+* Persistent messages
+* Multiple rooms
+* Private and password-protected rooms
+* New message alerts / notifications
+* Mentions (hey @you/@all)
+* Image embeds / Giphy search
+* Code pasting
+* File uploads (Local / [Amazon S3][s3] / [Azure][azure])
+* Transcripts / chat history
+* XMPP Multi-user chat (MUC)
+* 1-to-1 chat between XMPP users
+* Local / [Kerberos][kerberos] / [LDAP][ldap] authentication
+* [Hubot Adapter][hubot]
+* REST-like API
+* Basic i18n support
+* MIT Licensed
+
 ### ChatGrape
 
 > "The world's fastest business chat."
@@ -58,28 +84,6 @@ ChatGrape allows you to manage your cloud services [right from the chat](https:/
 - iOS, Mac OS X and Android Apps
 - [Open Source: Encrypted OTR P2P Messaging in the making](https://chatgrape.com/open-source/)
 - a lot more to come
-
-### Let's Chat
-
-[Let's Chat Homepage](https://sdelements.github.io/lets-chat/)
-
-> A BYOS (Bring Your Own Server) chat app for small teams.
-
-Features:
-
-* Persistent messages
-* Multiple rooms
-* New message alerts / notifications
-* Mentions (hey @you)
-* Image embeds
-* Code pasting
-* File uploads
-* Transcripts / chat history
-* XMPP Multi-user chat (MUC)
-* Local / [Kerberos](https://github.com/sdelements/lets-chat-kerberos) / [LDAP](https://github.com/sdelements/lets-chat-ldap) authentication
-* [Hubot Adapter](https://github.com/hhaidar/hubot-lets-chat)
-* REST-like API
-* MIT Licensed
 
 ### Kandan
 
