@@ -157,3 +157,5 @@ Features:
 [Mattermost](http://www.mattermost.org/)
 
 [Rocket Chat](https://rocket.chat/)
+
+[Zulip](https://zulip.org/)
