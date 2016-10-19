@@ -6,7 +6,7 @@ HipChat is fantastic, however:
 
 4/25/2014: HipChat Changed Their TOS To Allow Admins Access to 1-1 Chat History
 
-4/27/2014: Response from HipChat regarding 1-1 chat access by admins - [Who can view chat history and files](http://help.hipchat.com/knowledgebase/articles/358098)
+4/27/2014: Response from HipChat regarding 1-1 chat access by admins - [Who can view chat history and files][hipchatwhocansee]
 
 Edit:
 10/19/2014: Slack is awesome (and is taking over the world).
@@ -157,3 +157,5 @@ Features:
 [Mattermost](http://www.mattermost.org/)
 
 [Rocket Chat](https://rocket.chat/)
+
+[hipchatwhocansee]: http://web.archive.org/web/20150308222927/http://help.hipchat.com/knowledgebase/articles/358098
