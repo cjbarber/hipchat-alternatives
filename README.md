@@ -135,6 +135,17 @@ Features:
 * /me status messages
 * Comes with an API ([docs](https://github.com/HashNuke/mogo-chat/blob/master/docs/api.md))
 
+### Matrix and Riot
+
+[Matrix Homepage](https://matrix.org)
+
+* Matrix is a protocol for distributed messaging, Riot is a client used on the platform
+* Host your own server or use an existing public server
+* Federated architecture
+* End-to-End encryption to multiple clients and devices
+* Riot is a popular, fully-featured client supporting E2E, rich text via markdown/html, notifications etc
+  * Choose [another client from the many available](https://matrix.org/docs/projects/clients-matrix)
+* Supports [bots, bridges to many other services](https://matrix.org/docs/projects/try-matrix-now.html#application-services)
 
 ### Other Alternatives
 
