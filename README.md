@@ -144,7 +144,7 @@ Features:
 * Federated architecture
 * End-to-End encryption to multiple clients and devices
 * Riot is a popular, fully-featured client supporting E2E, rich text via markdown/html, notifications etc
-* * Choose [another client from the many available](https://matrix.org/docs/projects/clients-matrix)
+  * Choose [another client from the many available](https://matrix.org/docs/projects/clients-matrix)
 * Supports [bots, bridges to many other services](https://matrix.org/docs/projects/try-matrix-now.html#application-services)
 
 ### Other Alternatives
